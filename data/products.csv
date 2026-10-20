@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+P001,Wireless Mouse,Electronics,799.00,150
+P002,Mechanical Keyboard,Electronics,3499.00,75
+P003,Stainless Steel Water Bottle,Home & Kitchen,549.00,220
+P004,Running Shoes,Footwear,2999.00,90
+P005,Cotton T-Shirt,Apparel,399.00,300
+P006,Bluetooth Speaker,Electronics,1899.00,110
+P007,Yoga Mat,Fitness,899.00,130
+P008,Ceramic Coffee Mug,Home & Kitchen,249.00,400
+P009,Backpack,Accessories,1499.00,85
+P010,LED Desk Lamp,Home & Kitchen,1199.00,60

@@ -1,0 +1,72 @@
+[
+  {
+    "supplier_id": "S001",
+    "supplier_name": "TechSource Distributors",
+    "contact_email": "sales@techsource.in",
+    "city": "Hyderabad",
+    "rating": 4.6
+  },
+  {
+    "supplier_id": "S002",
+    "supplier_name": "Global Gadgets Pvt Ltd",
+    "contact_email": "info@globalgadgets.in",
+    "city": "Bengaluru",
+    "rating": 4.3
+  },
+  {
+    "supplier_id": "S003",
+    "supplier_name": "HomeEase Suppliers",
+    "contact_email": "orders@homeease.in",
+    "city": "Chennai",
+    "rating": 4.1
+  },
+  {
+    "supplier_id": "S004",
+    "supplier_name": "StepUp Footwear Co.",
+    "contact_email": "contact@stepupfootwear.in",
+    "city": "Mumbai",
+    "rating": 4.4
+  },
+  {
+    "supplier_id": "S005",
+    "supplier_name": "FabricHub Textiles",
+    "contact_email": "support@fabrichub.in",
+    "city": "Surat",
+    "rating": 3.9
+  },
+  {
+    "supplier_id": "S006",
+    "supplier_name": "SoundWave Electronics",
+    "contact_email": "sales@soundwave.in",
+    "city": "Delhi",
+    "rating": 4.5
+  },
+  {
+    "supplier_id": "S007",
+    "supplier_name": "FitLife Wholesale",
+    "contact_email": "hello@fitlifewholesale.in",
+    "city": "Pune",
+    "rating": 4.2
+  },
+  {
+    "supplier_id": "S008",
+    "supplier_name": "CeramicCraft Industries",
+    "contact_email": "info@ceramiccraft.in",
+    "city": "Jaipur",
+    "rating": 4.0
+  },
+  {
+    "supplier_id": "S009",
+    "supplier_name": "TravelGear Traders",
+    "contact_email": "orders@travelgear.in",
+    "city": "Kolkata",
+    "rating": 4.3
+  },
+  {
+    "supplier_id": "S010",
+    "supplier_name": "BrightLite Solutions",
+    "contact_email": "sales@brightlite.in",
+    "city": "Ahmedabad",
+    "rating": 4.7
+  }
+]

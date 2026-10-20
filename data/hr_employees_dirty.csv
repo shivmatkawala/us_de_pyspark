@@ -1,0 +1,51 @@
+employee_id,full_name,email,department,job_title,hire_date,salary,city,gender,phone
+E1003,Ravi Joshi,ravi.joshi@company.com,Human Resources,HR Executive,21-Nov-2018,99500,PUNE,female,9153246119
+E1025,  LAKSHMI DAS ,lakshmi.das@company.com,Marketing,Marketing Executive,11-08-2020,103000,Bengaluru,Female,9894432601
+E1017,  MEERA SHARMA ,meera.sharma@company.com,IT,DevOps Engineer,2021-09-12,"103,000",Bengaluru,Male,+91-95903 17463
+E1019,Karthik Reddy,karthik.reddy@company.com,IT,Software Engineer,2022-03-04,68500,Hyderabad,Male,9708579269
+E1044,swati menon,swati.menon@company.com,IT,IT Manager,14-Dec-2017,90500,Chennai,Female,+91-93101 79237
+E1015,Kavya Menon,kavya.menon@company.com,,Brand Manager,14/12/2019,"70,500",Mumbai,male,+91-92620 50095
+E1019,Karthik Reddy,karthik.reddy@company.com,IT,Software Engineer,2022-03-04,68500,Hyderabad,Male,9708579269
+E1005,Ravi Kumar,ravi.kumar@company.com,IT,Data Analyst,2016-10-19,106500,Chennai,Male,968-813-6138
+E1029,Tanvi Kumar,tanvi.kumar@company.com,FINANCE,Financial Analyst,2031-04-15,141000,delhi,Male,9613283748
+E1026,Anjali Iyer,anjali.iyer@company.com,IT,Software Engineer,12-Aug-2023,118500 INR,Hyderabad,female,+91-96070 63907
+E1037,Neha Verma,neha.verma@company.com,Human Resources,Recruiter,01-11-2023,112000 INR,,female,9942106156
+E1024,Manish Singh,manish.singh@company.com,HR,HR Executive,2019-09-12,"₹141,000",Chennai,M,9671866729
+E1045,  DIVYA PATEL ,divya.patel@company.com,H.R.,HR Manager,11-Jan-2020,not disclosed,Mumbai,Male,+91-95126 86830
+E1003,Ravi Joshi,ravi.joshi@company.com,Human Resources,HR Executive,21-Nov-2018,99500,PUNE,female,9153246119
+E1038,harsh reddy,harsh.reddy@company.com,Marketing,Marketing Executive,7-Apr-2015,60000,Hyderabad,Female,+91-97031 52336
+E1010,lakshmi joshi,lakshmi.joshi@company.com,Finance,Financial Analyst,12/12/2020,,Pune,F,+91-91738 33652
+E1001,  RAHUL MEHTA ,rahul.mehta@company.com,Sales,Sales Executive,02-27-2015,93500,Chennai,M,+91-96448 54973
+E1007,Rahul Gupta,rahul.gupta@company.com,Marketing,Marketing Executive,10-Jun-2022,"₹56,500",Delhi,male,9187891151
+E1035,Divya Chopra,divya.chopra@company.com,Sales,Sales Manager,14/09/2024,130500,Bengaluru,Male,+91-96621 10918
+E1033,Deepa Chopra,deepa.chopra@company.com,IT,Data Analyst,27/04/2021,136500,HYDERABAD,F,9328470563
+E1028,Ishita Reddy,ishita.reddy@company.com,IT,IT Manager,2022-04-11,"51,000",Pune,Male,9614830670
+E1011,Ravi Reddy,ravi.reddy@company.com,FINANCE,Accountant,22/12/2022,33000 INR,Delhi,F,+91-97948 49312
+E1023,  VARUN MEHTA ,varun.mehta@company.com,Marketing,Marketing Executive,17/04/2015,9999999,Delhi,Male,+91-99140 49802
+E1047,  ARJUN SHARMA ,arjun.sharma@company.com,IT,DevOps Engineer,2019-03-27,79000,Mumbai,Male,9676168666
+E1041,Gaurav Iyer,gaurav.iyer@company.com,Sales,,2017-07-04,"₹75,000",Chennai,Male,+91-98206 47678
+E1099,Sanjay Singh,sanjay.singh@company.com,marketing,Content Strategist,2022-06-24,82000,PUNE,M,9226772164
+E1012,Sanjay Kumar,sanjay.kumar@company.com,Sales,Sales Manager,2019-12-13,138500,Chennai,Male,9595741540
+E1014,Suresh Chopra,suresh.chopra@company.com,sales,Sales Manager,2016-03-15,"₹76,000",Chennai,Male,9979695030
+E1022,  POOJA SINGH ,pooja.singh@company.com,HR,Recruiter,2017-02-24,"₹68,500",Chennai,Female,+91-99899 76686
+E1008,Sanjay Singh,sanjay.singh@company.com,marketing,Content Strategist,2022-06-24,82000,PUNE,M,9226772164
+E1009,Manish Nair,manish.nair@company.com,IT,Software Engineer,16/03/2020,78500,Delhi,Male,+91-99209 51719
+E1006,varun reddy,rohan.mehta#company.com,marketing,Brand Manager,10-07-2015,"₹88,500",Pune,Female,9934543046
+E1039,Aarav Das,aarav.das@company.com,HR,Recruiter,20/06/2022,149500,Pune,Male,9843814251
+E1032,  POOJA KUMAR ,pooja.kumar@company.com,finance,Accountant,2017-09-18,"41,500",Hyderabad,,9665412094
+E1013,Divya Mehta,priya@,Marketing,Content Strategist,2016-08-02,52500,Bengaluru,Male,+91-95272 39380
+E1040,  ARJUN GUPTA ,arjun.gupta@company.com,Marketing,Marketing Executive,08-17-2023,145500,Delhi,F,970-077-3368
+E1004,ishita sharma,,Marketing,Brand Manager,2017-05-14,43000 INR,Hyderabad,F,+91-97015 71670
+E1020,  VIKRAM RAO ,vikram.rao@company.com,HR,HR Executive,2020-10-01,"34,000",Pune,female,925-950-4871
+E1027,  ARJUN IYER ,arjun.iyer@company.com,Marketing,Brand Manager,2020-08-26,"144,500",Chennai,F,
+E1002,Karthik Sharma,karthik.sharma@company.com,HR,HR Executive,2021-07-03,55500, Pune,Female,9163469421
+E1043,Arjun Chopra,arjun.chopra@company.com,IT,Software Engineer,04-24-2022,146500,Mumbai,Female,927-479-9977
+E1036,Manish Sharma,manish.sharma@company.com,SALES,Sales Executive,1-Oct-2017,"₹124,000",BENGALURU,M,9608409165
+E1046,  RAHUL RAO ,rahul.rao@company.com,Mktg,Marketing Executive,2019-09-03,"₹39,000",HYDERABAD,male,9385147465
+E1034,Meera Rao,meera.rao@company.com,IT,IT Manager,31/02/2020,"₹94,500",Bengaluru,Male,+91-98944 85254
+E1031,Deepa Reddy,deepa.reddy@company.com,IT,IT Manager,1-Mar-2017,44000,Delhi,Male,975-667-1867
+E1016,Rohan Mehta,rohan.mehta@company.com,Information Technology,IT Manager,11-08-2018,"₹26,500",Pune,Male,9382122033
+E1042,Ishita Nair,ishita.nair@company.com,HR,HR Executive,10-Nov-2018,125000 INR,Bengaluru,Female,+91-92535 22529
+E1021,Amit Singh,amit.singh@company.com,Finance,Accountant,N/A,40500,Mumbai,female,9615820314
+E1018,Gaurav Menon,gaurav.menon@company.com,Marketing,Marketing Executive,13-Jul-2021,-45000,Mumbai,Female,9166838090
+E1030,Gaurav Mehta,gaurav.mehta@company.com,SALES,Sales Manager,26-Feb-2020,146000,Mumbai,Female,9530985811
